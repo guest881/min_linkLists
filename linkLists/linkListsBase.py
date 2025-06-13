@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2025/6/13 22:03
-@author: Mingzhe
+@author: guest881
 """
 class LinkListsBase:
     def __init__(self, register,value) -> None:

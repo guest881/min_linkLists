@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2025/6/11 19:39
-@author: Mingzhe
+@author: guest881
 """
 from linkLists import *
 if __name__ == '__main__':

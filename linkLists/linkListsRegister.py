@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2025/6/13 22:05
-@author: Mingzhe
+@author: guest881
 """
 class Register(list):
     storage = dict()

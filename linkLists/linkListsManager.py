@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2025/6/13 22:07
-@author: Mingzhe
+@author: guest881
 """
 from typing import Type
 from .linkListStype import *
